@@ -1,2 +1,5 @@
 # Breakout_Final
-Breakout game in verilog HDL
+### High Level Overview
+For this project we needed to create the Atari Breakout Game using verilog HDL on the Quartus Prime IDE.
+
+
